@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Abd Alkareem Shafie
 
-<!--
-**KareemShafie/KareemShafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineer from Palestine  
+💡 I love learning new technologies
+🚀 Passionate about Machine Learning, Computer Vision, and Web Development
+🧠 I'm deeply focused on exploring the possibilities within AI
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- 💻 Languages: Python, JavaScript, C++
+- 📚 Frameworks: Angular, React , Laravel 
+- ⚙️ Tools: Git, VS Code, Postman , HTML , CSS
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/abd-alkareem-shafie-606097353/)
+- 📧 karshafie@gmail.com

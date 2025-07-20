@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abd Alkareem Shafie
 
-🎓 AI Engineer from Palestine  
+🎓 AI Engineer student from Palestine  
 💡 I love learning new technologies
 🚀 Passionate about Machine Learning, Computer Vision, and Web Development
 🧠 I'm deeply focused on exploring the possibilities within AI

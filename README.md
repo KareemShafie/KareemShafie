@@ -30,7 +30,9 @@
 
 ### **Developer Tools**
 - Git & GitHub  
-- VS Code  
+- VS Code
+- PyCharm
+- Jupyter Notebook
 - Postman  
 - HTML  
 - CSS  

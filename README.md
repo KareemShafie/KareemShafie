@@ -14,6 +14,7 @@
 - Python  
 - JavaScript  
 - C++
+- Assembly (x86)
 
 ### **Frameworks**
 - Angular  

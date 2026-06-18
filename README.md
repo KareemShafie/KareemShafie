@@ -1,14 +1,14 @@
 # Hi 👋, I'm Abd Alkareem Shafie
 
-### AI Engineer | Machine Learning | NLP | Computer Vision
+### Aspiring AI Engineer | Machine Learning | NLP | Computer Vision
 
 🎓 Computer Science Student (Artificial Intelligence Track) at An-Najah National University
 
-🏆 3rd Place Winner – Build With AI Datathon
+🚀 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Mining, and Intelligent Systems.
 
-📜 Udacity AI Programming with Python & TensorFlow Nanodegree Graduate
+💡 I enjoy building intelligent applications that solve real-world problems through Machine Learning, Computer Vision, Large Language Models (LLMs), Predictive Analytics, and Business Intelligence solutions.
 
-🚀 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, Data Mining, and Intelligent Systems.
+![](https://komarev.com/ghpvc/?username=KareemShafie\&color=blue)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
@@ -47,15 +47,16 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -77,7 +78,7 @@ Real-time vehicle detection, classification, tracking, and speed estimation usin
 
 ### 📊 RetailMind Analytics
 
-Business intelligence dashboard featuring customer segmentation, Apriori association rule mining, anomaly detection, and recommendation systems.
+Interactive business intelligence dashboard featuring customer segmentation, Apriori association rule mining, anomaly detection, and recommendation systems.
 
 ### 📉 Telecom Customer Churn Prediction
 
@@ -89,15 +90,17 @@ Machine learning solution using Logistic Regression, Random Forest, XGBoost, and
 
 🥉 3rd Place – Build With AI Datathon
 
-🎓 Udacity AI Programming with Python & TensorFlow Nanodegree
+🎓 AI Programming with Python & TensorFlow Nanodegree – Udacity
 
 🤖 Artificial Intelligence Track Student – An-Najah National University
 
-👥 Multiple AI, NLP, Computer Vision, and Data Mining Team Projects
+👥 Successfully delivered multiple AI, NLP, Computer Vision, and Data Mining team projects
+
+📊 Built end-to-end machine learning, deep learning, NLP, computer vision, and business intelligence applications
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KareemShafie\&show_icons=true\&theme=github_dark)
 
@@ -105,4 +108,4 @@ Machine learning solution using Logistic Regression, Random Forest, XGBoost, and
 
 ---
 
-⭐ Always interested in collaborating on AI, Machine Learning, NLP, Computer Vision, and Data Science projects.
+⭐ Always interested in collaborating on AI, Machine Learning, NLP, Computer Vision, Data Science, and intelligent software projects.

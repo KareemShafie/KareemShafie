@@ -211,7 +211,7 @@ A collection of practical Data Mining coursework covering multiple unsupervised 
 
 ## 🏆 Achievements & Development
 
-- 🥉 **3rd Place — Build With AI Datathon**
+- 🥉 **1st Place — Build With AI Datathon**
 - 🎓 **AI Programming with Python & TensorFlow Nanodegree — Udacity**
 - 🤖 Built multiple end-to-end Machine Learning, NLP, Computer Vision, and Data Mining applications
 - 🧠 Practical experience with traditional ML, deep learning, LLM fine-tuning, and transfer learning

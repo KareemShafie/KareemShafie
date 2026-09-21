@@ -8,7 +8,7 @@
 
 🚀 I enjoy taking AI projects from data preparation and model development to evaluation, optimization, and interactive applications.
 
-🏆 **3rd Place — Build With AI Datathon**
+🏆 **1st Place — Build With AI Datathon**
 
 ---
 
